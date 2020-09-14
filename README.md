@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**JJNotLiveS/JJNotLiveS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>  
+  <li>JavaScript</li>  
+  <li>TypeScript</li>  
+  <li>C++</li>  
+  <li>MongoDB</li>  
+  <li>React</li>  
+  <li>Express</li>  
+  <li>Node.JS</li>  
+  <li>JSON</li>  
+  <li>Dsicord Applications</li>  
+ </ul>
